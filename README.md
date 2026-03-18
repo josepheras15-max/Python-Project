@@ -7,7 +7,7 @@ This is my final project for my Python coding class. It’s a fun, interactive g
 *   **Gives Hints: It tells you if your guess is "too high" or "too low" so you can try again.
 *   **Tracks Progress:** It counts how many tries it takes you to win.
 
-## ✨ What I learned
+## What I learned
 While making this, I practiced using:
 *   **Random library** for the secret number.
 *   **While loops** to keep the game running until you win.
